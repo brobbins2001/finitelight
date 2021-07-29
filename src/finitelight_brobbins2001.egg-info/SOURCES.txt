@@ -2,6 +2,8 @@ LICENSE
 README.md
 pyproject.toml
 setup.cfg
+src/finitelight/__init__.py
+src/finitelight/finitelight.py
 src/finitelight_brobbins2001.egg-info/PKG-INFO
 src/finitelight_brobbins2001.egg-info/SOURCES.txt
 src/finitelight_brobbins2001.egg-info/dependency_links.txt

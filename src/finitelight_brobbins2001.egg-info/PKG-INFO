@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: finitelight-brobbins2001
-Version: 0.0.1
-Summary: A small example package
+Version: 0.0.2
+Summary: A package for lightspeed calculations
 Home-page: https://github.com/brobbins2001/finitelight
 Author: Bryan Robbins
 Author-email: btr1014@wildcats.unh.edu
